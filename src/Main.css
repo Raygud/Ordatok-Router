@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  color: red;
+}
+
+nav {
+  background-color: #e42b2b;
+  width: 100vw;
+  height: 5vw;
+}
